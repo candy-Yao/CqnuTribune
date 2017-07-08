@@ -1,0 +1,13 @@
+错误语句:select * from manager.announcement order by a_time
+错误原因:
+错误时间:2017-03-22 19:52:49
+错误语句:select * from manager.announcement order by a_time
+错误原因:
+错误时间:2017-06-19 18:11:37
+错误语句:select * from manager.announcement order by a_time
+错误原因:
+错误时间:2017-06-19 18:11:55
+错误语句:select * from manager.announcement order by a_time
+错误原因:
+错误时间:2017-06-19 18:12:15
+
